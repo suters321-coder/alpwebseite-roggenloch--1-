@@ -1,0 +1,68 @@
+{
+  "startseite": {
+    "paragraphs": 6,
+    "images": 0,
+    "rawImageUrls": 1,
+    "links": 20
+  },
+  "root": {
+    "paragraphs": 7,
+    "images": 15,
+    "rawImageUrls": 20,
+    "links": 28
+  },
+  "ueber-uns": {
+    "paragraphs": 11,
+    "images": 1,
+    "rawImageUrls": 5,
+    "links": 20
+  },
+  "alp-beizli": {
+    "paragraphs": 8,
+    "images": 2,
+    "rawImageUrls": 7,
+    "links": 21
+  },
+  "foto-galerie": {
+    "paragraphs": 5,
+    "images": 689,
+    "rawImageUrls": 1209,
+    "links": 626
+  },
+  "video-galerie": {
+    "paragraphs": 0,
+    "images": 0,
+    "rawImageUrls": 1,
+    "links": 20
+  },
+  "standort": {
+    "paragraphs": 1,
+    "images": 2,
+    "rawImageUrls": 9,
+    "links": 20
+  },
+  "milchkanne-kunst": {
+    "paragraphs": 3,
+    "images": 6,
+    "rawImageUrls": 13,
+    "links": 26
+  },
+  "kontakt": {
+    "paragraphs": 15,
+    "images": 0,
+    "rawImageUrls": 1,
+    "links": 21
+  },
+  "links": {
+    "paragraphs": 1,
+    "images": 0,
+    "rawImageUrls": 1,
+    "links": 24
+  },
+  "social-media": {
+    "paragraphs": 3,
+    "images": 0,
+    "rawImageUrls": 1,
+    "links": 20
+  }
+}

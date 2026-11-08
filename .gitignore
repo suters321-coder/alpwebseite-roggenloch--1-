@@ -1,0 +1,3 @@
+node_modules/
+.chrome-debug-profile/
+.env.local

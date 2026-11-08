@@ -1,0 +1,15 @@
+{
+  "name": "alp-ober-roggenloch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Statische Website für die Alp Ober Roggenloch – wird mit F5 in einem separaten Chrome-Fenster gestartet.",
+  "scripts": {
+    "start": "http-server . -p 5500 -c-1"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0",
+    "http-server": "^14.1.1",
+    "image-size": "^2.0.4",
+    "pdfjs-dist": "^6.4.299"
+  }
+}

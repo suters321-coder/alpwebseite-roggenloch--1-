@@ -1,0 +1,57 @@
+{
+  "alp-beizli": {
+    "total": 3,
+    "ok": 3,
+    "failed": 0
+  },
+  "foto-galerie": {
+    "total": 604,
+    "ok": 604,
+    "failed": 0
+  },
+  "kontakt": {
+    "total": 1,
+    "ok": 1,
+    "failed": 0
+  },
+  "links": {
+    "total": 1,
+    "ok": 1,
+    "failed": 0
+  },
+  "milchkanne-kunst": {
+    "total": 6,
+    "ok": 6,
+    "failed": 0
+  },
+  "root": {
+    "total": 8,
+    "ok": 8,
+    "failed": 0
+  },
+  "social-media": {
+    "total": 1,
+    "ok": 1,
+    "failed": 0
+  },
+  "standort": {
+    "total": 3,
+    "ok": 3,
+    "failed": 0
+  },
+  "startseite": {
+    "total": 1,
+    "ok": 1,
+    "failed": 0
+  },
+  "ueber-uns": {
+    "total": 2,
+    "ok": 2,
+    "failed": 0
+  },
+  "video-galerie": {
+    "total": 1,
+    "ok": 1,
+    "failed": 0
+  }
+}
